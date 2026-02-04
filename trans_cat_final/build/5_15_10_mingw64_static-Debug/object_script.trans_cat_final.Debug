@@ -1,0 +1,11 @@
+debug/domain.o
+debug/geo.o
+debug/json.o
+debug/json_builder.o
+debug/json_reader.o
+debug/main.o
+debug/map_renderer.o
+debug/request_handler.o
+debug/svg.o
+debug/transport_catalogue.o
+debug/transport_router.o

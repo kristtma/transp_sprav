@@ -1,0 +1,11 @@
+release/domain.o
+release/geo.o
+release/json.o
+release/json_builder.o
+release/json_reader.o
+release/main.o
+release/map_renderer.o
+release/request_handler.o
+release/svg.o
+release/transport_catalogue.o
+release/transport_router.o
